@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Add"
+        android:title="ADD"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/aboutus"
+        android:title="AboutUs" />
+    <item
+        android:id="@+id/callus"
+        android:title="CallUs" />
+
+</menu>
